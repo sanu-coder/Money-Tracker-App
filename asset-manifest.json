@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Money-Tracker-App/static/css/main.8a879baa.css",
+    "main.js": "/Money-Tracker-App/static/js/main.22e759e4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Money-Tracker-App/static/js/787.28cb0dcd.chunk.js",
+    "static/media/notification.svg?s3g3t9": "/Money-Tracker-App/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/Money-Tracker-App/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/Money-Tracker-App/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/Money-Tracker-App/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/Money-Tracker-App/index.html",
+    "main.8a879baa.css.map": "/Money-Tracker-App/static/css/main.8a879baa.css.map",
+    "main.22e759e4.js.map": "/Money-Tracker-App/static/js/main.22e759e4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Money-Tracker-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a879baa.css",
+    "static/js/main.22e759e4.js"
+  ]
+}
