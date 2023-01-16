@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url="http://localhost:3200/user"
+const url="https://money-tracker-backend.onrender.com/user"
 export async function registerUser(entry){
     let response = await axios.post(url + '/register', entry);
     localStorage.setItem('token', response.data.token);
