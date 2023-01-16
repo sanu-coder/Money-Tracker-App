@@ -21,7 +21,7 @@ const Register=()=>{
             console.log(response);
             if(response.result==="Success"){
                 NotificationManager.success('Successfully Registered', 'Success', 2000);
-                navigate('/');
+                navigate('/Money-Tracker-App/dashboard');
             }
             else if(response.token===""){
                 NotificationManager.error(response.result, 'Error', 2000);
@@ -57,7 +57,7 @@ const Register=()=>{
                             <button type="submit" className="btn btn-primary btn-block mt-3"  onClick={(event)=>{handleSubmit(event)}}><span style={{fontSize:"20px"}}>Sign Up</span></button>
                             
                             <div className="sign-up">
-                                Have an account? <a href="/signin">Login here</a>
+                                Have an account? <a href="/Money-Tracker-App/signin">Login here</a>
                             </div>
                         </form>
                     </div>
