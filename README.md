@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Outputs
 
+For login trial base : 
+
+email : test123@gmail.com
+password : 123456
+\
 1. sign-in page
 ![image](https://user-images.githubusercontent.com/72346984/212703877-fd012c1a-eb08-4b40-9549-605a77ae6757.png)
 
