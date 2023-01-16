@@ -55,7 +55,7 @@ const SignIn=()=>{
                             <button type="submit" className="btn btn-primary btn-block mt-3" onClick={(event)=> { handleSubmit(event) }}><span className="m-3" style={{fontSize:"20px"}}>Sign In</span></button>
                             
                             <div className="sign-up">
-                                Don't have an account? <a href="/Money-Tracker-App/register">Create One</a>
+                                Don't have an account? <a href="/#/register">Create One</a>
                             </div>
                         </form>
                     </div>
