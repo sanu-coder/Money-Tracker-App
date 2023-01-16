@@ -23,7 +23,7 @@ const SignIn=()=>{
             if(response.result==="success"){
                 await NotificationManager.success('Login Successfull', 'Success', 2000);
             
-                navigate('/Money-Tracker-App/dashboard');
+                navigate('/#/dashboard');
             }
             else if(response.token===""){
                 NotificationManager.error(response.result, 'Error', 2000);
