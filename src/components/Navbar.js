@@ -5,7 +5,7 @@ const NavBar = () => {
     const logout = () =>{
         localStorage.removeItem('token');
         NotificationManager.success('Logout Successfull', 'Success', 2000);
-        navigate('/Money-Tracker-App/signin');
+        navigate('/signin');
     }
     return (
     <header className='navbar'>
